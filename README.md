@@ -2,7 +2,7 @@
 
 ##Project Overview:
 
-This project analyzes emploee dato understand attrition patterns and workforce trends.
+This project analyzes emploee data understand attrition patterns and workforce trends.
 
 ##Tools Used:
 
@@ -13,9 +13,12 @@ This project analyzes emploee dato understand attrition patterns and workforce t
 
 ##Key Insights:
 
--Totla Employees: 1470
+-Total Employees: 1470
+
 -Attrition Rate: 16.1%
+
 -Department-wise analysis
+
 -Employee satisfaction analysis
 
 ##Dashboard Preview:
