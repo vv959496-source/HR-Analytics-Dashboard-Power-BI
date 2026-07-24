@@ -7,8 +7,11 @@ This project analyzes emploee data understand attrition patterns and workforce t
 ##Tools Used:
 
 -Microsoft Power BI
+
 -Data Cleaning
+
 -Data Visualization
+
 -Data Analysis
 
 ##Key Insights:
