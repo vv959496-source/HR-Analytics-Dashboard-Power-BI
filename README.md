@@ -1,10 +1,10 @@
 # HR-Analytics-Dashboard-Power-BI
 
-##Project Overview:
+## Project Overview:
 
 This project analyzes emploee data understand attrition patterns and workforce trends.
 
-##Tools Used:
+## Tools Used:
 
 -Microsoft Power BI
 
@@ -14,7 +14,7 @@ This project analyzes emploee data understand attrition patterns and workforce t
 
 -Data Analysis
 
-##Key Insights:
+## Key Insights:
 
 -Total Employees: 1470
 
@@ -24,11 +24,11 @@ This project analyzes emploee data understand attrition patterns and workforce t
 
 -Employee satisfaction analysis
 
-##Dashboard Preview:
+## Dashboard Preview:
 
 <img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/d444bdba-e6e8-4b50-a0d6-acecdb481142" />
 
-##Conclusion:
+## Conclusion:
 
 This HR Analytics Dashboard provides valuable insights into employee data, helping to understand attrition trends, workforce
 patterns, and employee satisfaction. Using Power BI, I transformed raw HR data into meaningful visualizations that support 
